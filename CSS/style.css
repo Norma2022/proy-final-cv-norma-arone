@@ -1,0 +1,59 @@
+/* INICIO */
+
+.navbar-brand {
+    color: #cc0066;
+    font-size: 36px;
+}
+
+.bg-color-externo {
+  background-color:#cc0066;
+}
+
+.nav-text-inicio {
+  font-weight: 800;
+}
+
+#color-nombre {
+  color: #ff5080;
+}
+
+.btn-inicio {
+  border: 2px solid #ff5080;
+}
+
+.btn-inicio:hover {
+  background-color: #ff5080;
+  color: white;
+  border: 2px solid #ff5080;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.progress-bar {
+  background-color: #ff5080;
+}
+
+
+/* FORMULARIO */
+
+ .border-contacto {
+  border: 2px solid #ff5080;
+}
+
+.btn-enviar {
+  display: block;
+  margin: auto;
+  cursor: pointer;
+  transition: 0.5s;
+  padding: 10px 15px !important;
+  border: 2px solid #ff5080; 
+}
+
+.redes {
+  text-align: center;
+  font-size: 36px;
+}
+
+.icon-black-color {
+  color: black;
+}
